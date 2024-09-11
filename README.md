@@ -58,7 +58,7 @@ The above command will take ihc amd he file path as per pma_pathomation along wi
 
 #### Run as API in Docker:
 To run this script as an API in Docker Container ,the following steps need to be taken:
-1. Save the docker file and scripts in folder of your choice.
+1. Save the docker file,irapi.py,requirement.txt scripts in folder of your choice.
 2. Build an image using the following command
 >
      sudo docker build -t ihc_he_align_image .
