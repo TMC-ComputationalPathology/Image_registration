@@ -8,6 +8,10 @@
  _IHC-HE-ROIAlign is method to register pixel-wise shift of region of interests in large sized hematoxylin and eosin stained (H&E) (WSIs) at highest magnification of 40x with their corresponding immunohistochemistry stained (IHC) (WSIs)enabling precise identification of epithelial regions and thereafter capitalise aligned HE patches of desired size in AI model trainings._
 
 
+ ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
+ ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-02-16.png)
+
+
 
 
 
