@@ -66,7 +66,7 @@ An example folder WSI_region_37200_33000 is added to show the structure of the f
  
 
 #### Run as API in Docker:
-To run this script as an  API (with FASTAPI UI) in Docker Container ,the following steps need to be taken:
+To run this script as an  API (with FASTAPI UI) in Docker Container ,the following steps needed to be taken:
 1. Save the docker file,irapi.py,requirement.txt scripts in folder of your choice.
 2. Build an image using the following command
 >
