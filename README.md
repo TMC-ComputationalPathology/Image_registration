@@ -5,12 +5,11 @@
 ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/Logo.png)
  
 ## IHC-HE-ROIAlign - Image Registration(git page in progress ,not final yet)
- _IHC-HE-ROIAlign is method to register pixel-wise shift of region of interests in large sized hematoxylin and eosin stained (H&E) (WSIs) at highest magnification of 40x with their corresponding immunohistochemistry stained (IHC) (WSIs)enabling precise identification of epithelial regions and thereafter capitalise aligned HE patches of desired size in AI model trainings._
+ _IHC-HE-ROIAlign is an image regisration approach to detect pixel-wise shift between region of interests in large sized hematoxylin and eosin stained (H&E) (WSIs) at highest magnification and their corresponding immunohistochemistry stained (IHC) (WSIs). This approach enables precise identification of epithelial regions and thereafter capitalise aligned HE patches of desired size in AI model trainings._
 
-
- ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
-        _Shift of (1877.78) pixel in X direction , (925.3435) in Y direction and rotation of 0.5 degress(clockwise) is registered.The  region used is of size (8192 x 8192)pixel_  
-          ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-12-50.png)
+![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
+ <sup>**_Shift of (1877.78) pixels in X direction , (925.3435) pixels in Y direction and rotation of 0.5 degress(clockwise) is registered.The  region used is of size (8192 x 8192)pixels_**</sup>
+ ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-12-50.png)
  ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-02-16.png)
 
 
