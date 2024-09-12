@@ -4,7 +4,7 @@
 
 ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/Logo.png)
  
-## IHC-HE-ROIAlign - Image Registration(git page in progress ,not final yet)
+## IHC-HE-ROIAlign - Image Registration(git page in progress ,not final yet,api part is to be improved and some text too.)
  _IHC-HE-ROIAlign is an image regisration approach to detect pixel-wise shift between region of interests in large sized hematoxylin and eosin stained (H&E) (WSIs) at highest magnification and their corresponding immunohistochemistry stained (IHC) (WSIs). This approach enables precise identification of epithelial regions and thereafter capitalise aligned HE patches of desired size in AI model trainings._
 
 ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
