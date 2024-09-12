@@ -9,6 +9,7 @@
 
 
  ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
+        _Shift of (1877.78) pixel in X direction , (925.3435) in Y direction and rotation of 0.5 degress(clockwise) is registered.The  region used is of size (8192 x 8192)pixel_  
           ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-12-50.png)
  ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-02-16.png)
 
