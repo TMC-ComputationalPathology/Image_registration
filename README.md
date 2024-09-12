@@ -9,6 +9,7 @@
 
 
  ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/8a9fef52c10d9c888a91d190880e62bfcf5c4cef/screenshots/Screenshot%20from%202024-09-12%2014-00-24.png)
+          ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-12-50.png)
  ![alt_images](https://github.com/TMC-ComputationalPathology/Image_registration/blob/main/screenshots/Screenshot%20from%202024-09-12%2014-02-16.png)
 
 
