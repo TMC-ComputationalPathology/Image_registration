@@ -58,7 +58,7 @@ The above command will take ihc amd he file path as per pma_pathomation along wi
 
       ├── shifted_target.tiff
 
-An example folder is added to show the structure of the folder.Since the intial coordinates used were 37200 and 33000 so the first he patch will be patch_37200_33000.png where as corrosponding ihc patch will be patch_0_0.png ,patch_37200_33256-patch_0_256 and so on so forth with increment of patch size of 256.
+An example folder WSI_region_37200_33000 is added to show the structure of the folder.Since the intial coordinates used were 37200 and 33000 so the first he patch will be patch_37200_33000.png where as corrosponding ihc patch will be patch_0_0.png ,patch_37200_33256-patch_0_256 and so on so forth with increment of patch size of 256.
  
 
 #### Run as API in Docker:
