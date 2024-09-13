@@ -37,9 +37,9 @@ The Frequently used package in development of this work is Pathomation alias(pma
 
 ### Fully Automated Run
 >
-     python rpauto.py --ihc_file_path "IHC_FILE.svs" --he_file_path "HE_FILE.svs" --X 56788 --Y 98675 --patch_size 256
+     python rpauto.py --ihc_file_path "IHC_FILE.svs" --he_file_path "HE_FILE.svs" --X 56788 --Y 98675 --patch_size 256 --region_size 8192
 
-The above command will take ihc amd he file path as per pma_pathomation along with top left coordinates of region of interest chosen on ihc image.The code will create a directory with structure as  file_name_region_coordinates which includes tiff files for ROI from both the images and two seperate subdirectories for registered IHC and HE patches.Since our main focus is to pick corrosponding coordinates of HE images , all the patches of the HE are saved with their coordinates_name.png.The final results will be generared as follow:
+The above command will take ihc file path ,he file path as per pma_pathomation along with top left coordinates of region of interest chosen on ihc image,desired patch size and targeted region size.The code will create a directory with structure as  file_name_region_coordinates which includes tiff files for ROI from both the images and two seperate subdirectories for registered IHC and HE patches.Since our main focus is to pick corrosponding coordinates of HE images , all the patches of the HE are saved with their coordinates_name.png.The final results will be generared as follow:
 
 >
 >
